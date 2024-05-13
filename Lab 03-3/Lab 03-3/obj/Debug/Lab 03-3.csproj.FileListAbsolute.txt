@@ -1,0 +1,7 @@
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 03\Lab 03-3\Lab 03-3\bin\Debug\Lab 03-3.exe.config
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 03\Lab 03-3\Lab 03-3\bin\Debug\Lab 03-3.exe
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 03\Lab 03-3\Lab 03-3\bin\Debug\Lab 03-3.pdb
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 03\Lab 03-3\Lab 03-3\obj\Debug\Lab 03-3.csproj.AssemblyReference.cache
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 03\Lab 03-3\Lab 03-3\obj\Debug\Lab 03-3.csproj.CoreCompileInputs.cache
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 03\Lab 03-3\Lab 03-3\obj\Debug\Lab 03-3.exe
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 03\Lab 03-3\Lab 03-3\obj\Debug\Lab 03-3.pdb
